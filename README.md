@@ -1,5 +1,5 @@
 # second-repo
 
-## By Abhishek
+## By Abhishek Singh
 
 this is a testing repo
